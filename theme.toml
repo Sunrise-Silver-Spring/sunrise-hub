@@ -8,15 +8,15 @@ features = ['banner', 'netlify']
 min_version = "0.41"
 
 [[authors]]
-   [author]
+   [author.brooke]
      name = "Brooke Angel"
      homepage = "http://brookeangel.github.io/"
 
-   [author]
+   [author.alex]
      name = "Alex Rosengarten"
      homepage = "https://alxrsngrtn.com/"
 
-   [author]
+   [author.ahlad]
     name = "Ahlad Reddy"
     homepage = "https://babydangerlove.substack.com/"
 
